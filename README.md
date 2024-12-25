@@ -12,6 +12,20 @@ A Pomodoro timer application built with React and TypeScript. This application h
 - 🔔 Audio notifications
 - ⚙️ Configurable settings
 
+## Screenshots
+
+### Twilight Theme
+![Twilight Theme](src/screenshots/twilight.png)
+
+### Forest Theme
+![Forest Theme](src/screenshots/forest.png)
+
+### Ocean Theme
+![Ocean Theme](src/screenshots/ocean.png)
+
+### Sunset Theme
+![Sunset Theme](src/screenshots/sunset.png)
+
 ## Tech Stack
 
 - React
